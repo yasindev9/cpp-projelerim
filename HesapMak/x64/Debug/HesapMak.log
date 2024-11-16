@@ -1,0 +1,3 @@
+﻿  HesapMak.cpp
+C:\Users\Yasin\source\repos\ders1\HesapMak\HesapMak.cpp(88,2): warning C4551: işlev çağrısında bağımsız değişken listesi eksik
+  HesapMak.vcxproj -> C:\Users\Yasin\source\repos\ders1\x64\Debug\HesapMak.exe
